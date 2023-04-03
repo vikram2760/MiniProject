@@ -37,7 +37,7 @@ public class Main
 
                 return;
             }
-            System.out.println("Result = " + ans);
+            System.out.println("Result : " + ans);
         }
 
         else if(choice==2)
