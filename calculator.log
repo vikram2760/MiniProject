@@ -1,0 +1,16 @@
+22/03/2023:19:21:07 040 [Calculator.java] [INFO] org.example.Calculator [ROOT] - 25.0
+22/03/2023:19:21:07 044 [Calculator.java] [INFO] org.example.Calculator [RESULT - ROOT] - 5.0
+22/03/2023:19:21:07 045 [Calculator.java] [INFO] org.example.Calculator [ROOT] - 16.0
+22/03/2023:19:21:07 045 [Calculator.java] [INFO] org.example.Calculator [RESULT - ROOT] - 4.0
+22/03/2023:19:21:07 045 [Calculator.java] [INFO] org.example.Calculator [LOG] - 1.0
+22/03/2023:19:21:07 046 [Calculator.java] [INFO] org.example.Calculator [RESULT - LOG] - 0.0
+22/03/2023:19:21:07 046 [Calculator.java] [INFO] org.example.Calculator [ROOT] - 1.0
+22/03/2023:19:21:07 046 [Calculator.java] [INFO] org.example.Calculator [RESULT - ROOT] - 1.0
+22/03/2023:19:21:07 047 [Calculator.java] [INFO] org.example.Calculator [FACTORIAL] - 3
+22/03/2023:19:21:07 047 [Calculator.java] [INFO] org.example.Calculator [RESULT - FACTORIAL] - 6
+22/03/2023:19:21:07 048 [Calculator.java] [INFO] org.example.Calculator [ROOT] - 2.0
+22/03/2023:19:21:07 048 [Calculator.java] [INFO] org.example.Calculator [RESULT - ROOT] - 1.4142135623730951
+22/03/2023:19:21:07 049 [Calculator.java] [INFO] org.example.Calculator [POW] - 2.0-4.0
+22/03/2023:19:21:07 050 [Calculator.java] [INFO] org.example.Calculator [RESULT - POW] - 16.0
+22/03/2023:19:21:07 050 [Calculator.java] [INFO] org.example.Calculator [POW] - 2.0-4.0
+22/03/2023:19:21:07 051 [Calculator.java] [INFO] org.example.Calculator [RESULT - POW] - 16.0
